@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "Facemaskdetection",
+			"path": "."
+		},
+		{
+			"name": "face_detector",
+			"path": "..\\Users\\prabh\\OneDrive\\Desktop\\dg\\Face-Mask-Detection-master\\face_detector"
+		}
+	],
+	"settings": {}
+}
