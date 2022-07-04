@@ -9,6 +9,7 @@ import time
 import cv2
 import os
 
+# made by prabhat 
 def detect_and_predict_mask(frame, faceNet, maskNet):
 	# grab the dimensions of the frame and then construct a blob
 	# from it
