@@ -116,7 +116,7 @@ while True:
 			cv2.FONT_HERSHEY_SIMPLEX, 0.45, color, 2)
 		cv2.rectangle(frame, (startX, startY), (endX, endY), color, 2)
 
-	# show the output frame
+	# show the output frames 
 	cv2.imshow("Frame", frame)
 	key = cv2.waitKey(1) & 0xFF
 
